@@ -1,0 +1,18 @@
+# Java
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.tar
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.iml
+
+# IDE specific files
+.idea/
+*.pyc
+*.pyo
+.vscode/
